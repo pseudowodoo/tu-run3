@@ -1,4 +1,4 @@
-# Mandatory Course (Udemy)
+# ✏️ Mandatory Course (Udemy)
 
 [The Complete 2024 Web Development Bootcamp](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#notes) (accessible on Udemy via LEARN app)
 

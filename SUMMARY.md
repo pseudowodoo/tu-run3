@@ -7,7 +7,8 @@
 
 ## ✏️ Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
 
-* [Tets](pre-work/tets.md)
+* [✏️ Mandatory Course (Udemy)](pre-work/mandatory-course-udemy.md)
+* [✏️ Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
 
 ## Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
@@ -47,9 +48,7 @@
 ## Programme Essentials
 
 * [Programme Materials](programme-essentials/programme-materials.md)
-* [Mandatory Reading on How the Internet Works](programme-essentials/mandatory-reading-on-how-the-internet-works.md)
 * [Sample Web App](programme-essentials/sample-web-app.md)
-* [Mandatory Course (Udemy)](programme-essentials/mandatory-course-udemy.md)
 * [Frequently Asked Questions](programme-essentials/frequently-asked-questions.md)
 * [Policy Takeaways](programme-essentials/policy-takeaways.md)
 
@@ -87,5 +86,3 @@
 ***
 
 * [✏️ About the Organisers](about-the-organisers.md)
-
-

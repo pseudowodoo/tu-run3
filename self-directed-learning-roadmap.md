@@ -160,8 +160,8 @@ The Complete 2024 Web Development Bootcamp on Udemy is a comprehensive course de
 
 We have selected a few of the more important modules (marked with "❗") that we recommend learners to focus on:
 
-{% content-ref url="programme-essentials/mandatory-course-udemy.md" %}
-[mandatory-course-udemy.md](programme-essentials/mandatory-course-udemy.md)
+{% content-ref url="pre-work/mandatory-course-udemy.md" %}
+[mandatory-course-udemy.md](pre-work/mandatory-course-udemy.md)
 {% endcontent-ref %}
 
 #### b. Primers to understand Web Development
