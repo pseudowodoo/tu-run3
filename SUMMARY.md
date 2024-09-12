@@ -12,7 +12,9 @@
 
 ## Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
-* [Page 2](week-1/page-2.md)
+* [Overview](week-1/page-2.md)
+* [Prework for this Week!](week-1/prework-for-this-week.md)
+* [Day 1 or Module](week-1/day-1-or-module.md)
 
 ## TECHUP
 
