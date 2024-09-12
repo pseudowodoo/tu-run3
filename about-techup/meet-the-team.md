@@ -1,10 +1,4 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1542435503-956c469947f6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxkZXNrJTIwdG9wJTIwZG93bnxlbnwwfHx8fDE3MjIyMTY1MTB8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
-# Meet the Team!
+# ✏️ Meet the Team!
 
 
 

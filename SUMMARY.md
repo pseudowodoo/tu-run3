@@ -27,7 +27,9 @@
   * [✏️ Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
 * [✏️ Learning Outcomes](about-techup/learning-outcomes.md)
 * [✏️ Expected Deliverables](about-techup/expected-deliverables.md)
-* [Meet the Team!](about-techup/meet-the-team.md)
+* [✏️ Meet the Team!](about-techup/meet-the-team.md)
+* [❓ Learning Groups](about-techup/learning-groups.md)
+* [✏️ Meet your participants](about-techup/meet-your-participants.md)
 * [Get Inspiration: Past TechUp Web Apps built by participants](https://run2.techup.today)
 
 ***
@@ -36,6 +38,7 @@
 
 ## ADMIN INSTRUCTIONS
 
+* [Important Notices](admin-instructions/important-notices.md)
 * [❓ Venues](admin-instructions/venues.md)
 * [❓ Tooling and Software](admin-instructions/tooling-and-software/README.md)
   * [Slack](admin-instructions/tooling-and-software/slack/README.md)
@@ -46,10 +49,8 @@
   * [Render](admin-instructions/tooling-and-software/render.md)
   * [Google Analytics](admin-instructions/tooling-and-software/google-analytics.md)
   * [GitHub](admin-instructions/tooling-and-software/github.md)
-* [❓ Learning Groups](admin-instructions/learning-groups.md)
+* [Mandatory Surveys](admin-instructions/mandatory-surveys.md)
 * [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
-
-## Programme Essentials
 
 ***
 
