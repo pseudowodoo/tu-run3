@@ -16,6 +16,14 @@ layout:
 
 This is a wiki for all information related to TechUp and will be updated progressively.
 
+### Key Dates and Information
+
+TechUp is held from 28 October 2024 - 22 November 2024
+
+### Venues
+
+Table for
+
 ### Announcements Board <a href="#announcements-board" id="announcements-board"></a>
 
 {% hint style="info" %}

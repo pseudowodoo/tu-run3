@@ -1,5 +1,11 @@
-# Overview
+# ✏️ Overview
 
 ### Description
 
-Who yo
+Heyo!
+
+### What to Expect
+
+Uh huh
+
+### Things to take note!

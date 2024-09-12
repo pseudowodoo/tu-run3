@@ -10,42 +10,41 @@
 * [✏️ Mandatory Course (Udemy)](pre-work/mandatory-course-udemy.md)
 * [✏️ Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
 
-## Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
+## ✏️ Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
-* [Overview](week-1/page-2.md)
+* [✏️ Overview](week-1/page-2.md)
 * [Prework for this Week!](week-1/prework-for-this-week.md)
 * [Day 1 or Module](week-1/day-1-or-module.md)
 
-## TECHUP
+## About TechUp
 
-* [Expected Deliverables](techup/expected-deliverables.md)
-* [✏️ About TechUp](techup/about-techup.md)
-* [✏️ Why do TechUp](techup/why-do-techup/README.md)
-  * [✏️ Rules of Engagement](techup/why-do-techup/rules-of-engagement.md)
-* [✏️ Learning Outcomes](techup/learning-outcomes.md)
-* [Meet the Team!](techup/meet-the-team.md)
+* [✏️ About TechUp](about-techup/about-techup.md)
+* [✏️ Why do TechUp](about-techup/why-do-techup/README.md)
+  * [✏️ Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
+* [✏️ Learning Outcomes](about-techup/learning-outcomes.md)
+* [Expected Deliverables](about-techup/expected-deliverables.md)
+* [Meet the Team!](about-techup/meet-the-team.md)
 * [Get Inspiration: Past TechUp Web Apps built by participants](https://techup.live)
 
 ***
 
-* [Page 1](page-1.md)
 * [Page](page.md)
 * [🚶 Self-Directed Learning Roadmap](self-directed-learning-roadmap.md)
 
 ## ADMIN INSTRUCTIONS
 
 * [Venues](admin-instructions/venues.md)
-* [Slack](admin-instructions/slack/README.md)
-  * [How to set up Slack](https://opengov.notion.site/Instructions-to-Set-Up-Slack-Account-5cb4c896b6264bf497f1ffdb038caea7)
-  * [Slack Checklist](admin-instructions/slack/slack-checklist.md)
-* [Tooling and Software](admin-instructions/tooling-and-software/README.md)
+* [❓ Tooling and Software](admin-instructions/tooling-and-software/README.md)
+  * [Slack](admin-instructions/tooling-and-software/slack/README.md)
+    * [How to set up Slack](https://opengov.notion.site/Instructions-to-Set-Up-Slack-Account-5cb4c896b6264bf497f1ffdb038caea7)
+    * [Slack Checklist](admin-instructions/tooling-and-software/slack/slack-checklist.md)
   * [Tooling Claims Instructions](admin-instructions/tooling-and-software/tooling-claims-instructions.md)
   * [Cloudflare](admin-instructions/tooling-and-software/cloudflare.md)
   * [Render](admin-instructions/tooling-and-software/render.md)
   * [Google Analytics](admin-instructions/tooling-and-software/google-analytics.md)
   * [GitHub](admin-instructions/tooling-and-software/github.md)
-* [Learning Groups](admin-instructions/learning-groups.md)
-* [Give Us Feedback](admin-instructions/give-us-feedback.md)
+* [❓ Learning Groups](admin-instructions/learning-groups.md)
+* [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
 
 ## Programme Essentials
 
@@ -88,3 +87,7 @@
 ***
 
 * [✏️ About the Organisers](about-the-organisers.md)
+
+## Hidden Group Example
+
+* [You can hide a group or page](hidden-group-example/you-can-hide-a-group-or-page.md)
