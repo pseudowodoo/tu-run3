@@ -10,7 +10,6 @@
 
 * [✏️ Mandatory Course (Udemy)](pre-work/mandatory-course-udemy.md)
 * [✏️ Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
-* [Sample Web App](pre-work/sample-web-app.md)
 
 ## ✏️ Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
@@ -19,6 +18,7 @@
 * [✏️ By Day 1 or Module](week-1/by-day-1-or-module/README.md)
   * [✏️ If required](week-1/by-day-1-or-module/if-required.md)
 * [✏️ Programme Materials](week-1/programme-materials.md)
+* [❓ Sample Web App](week-1/sample-web-app.md)
 
 ## About TechUp
 
@@ -33,7 +33,6 @@
 ***
 
 * [Page](page.md)
-* [🚶 Self-Directed Learning Roadmap](self-directed-learning-roadmap.md)
 
 ## ADMIN INSTRUCTIONS
 
@@ -51,8 +50,6 @@
 * [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
 
 ## Programme Essentials
-
-* [Learning Points](programme-essentials/policy-takeaways.md)
 
 ***
 
@@ -92,3 +89,5 @@
 ## Hidden Group Example
 
 * [You can hide a group or page](hidden-group-example/you-can-hide-a-group-or-page.md)
+* [🚶 Self-Directed Learning Roadmap](hidden-group-example/self-directed-learning-roadmap.md)
+* [Learning Points](hidden-group-example/policy-takeaways.md)

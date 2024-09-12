@@ -35,7 +35,7 @@ Follow the instructions in this page below to create your Cloudflare account.
 ### Linking my domain name to my web app (using the Sample Web App as an example)
 
 {% hint style="info" %}
-You should have already set up your Sample Web App before linking your domain name. If you have yet to do so, please follow the instructions [here](../../pre-work/sample-web-app.md).
+You should have already set up your Sample Web App before linking your domain name. If you have yet to do so, please follow the instructions [here](../../week-1/sample-web-app.md).
 {% endhint %}
 
 To link your domain name to the sample web app, there are three things you will need to do:
