@@ -5,6 +5,10 @@
   * [✏️ Tech Up Calendar](welcome/tech-up-calendar.md)
   * [✏️ Contact Persons](welcome/contact-persons.md)
 
+## ✏️ Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
+
+* [Tets](pre-work/tets.md)
+
 ## Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
 * [Page 2](week-1/page-2.md)
@@ -84,6 +88,4 @@
 
 * [✏️ About the Organisers](about-the-organisers.md)
 
-## ✏️ Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
 
-* [Tets](pre-work/tets.md)
