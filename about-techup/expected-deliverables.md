@@ -1,4 +1,4 @@
-# Deliverables
+# ✏️ Expected Deliverables
 
 1. Build and deploy a sample web application together with instructors.
 
@@ -6,7 +6,7 @@
 Not sure what a web application is? Read about it [here](../resources/web-development-and-web-application.md).
 {% endhint %}
 
-* Source code can be found [here](../programme-essentials/sample-web-app.md)
+* Source code can be found [here](../pre-work/sample-web-app.md)
 *   Your sample web application should:
 
     a. Be successfully deployed using Render.com \

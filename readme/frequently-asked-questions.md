@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# ✏️ Frequently Asked Questions
 
 ### Attendance <a href="#attendance" id="attendance"></a>
 
