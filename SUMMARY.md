@@ -1,17 +1,29 @@
 # Table of contents
 
 * [👋 Welcome!](README.md)
-* [🚶 Self-Directed Learning Roadmap](self-directed-learning-roadmap.md)
+  * [✏️ Announcements](welcome/announcements.md)
+  * [✏️ Tech Up Calendar](welcome/tech-up-calendar.md)
+  * [✏️ Contact Persons](welcome/contact-persons.md)
 
-## ABOUT TECHUP
+## Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
-* [Why do TechUp](about-techup/why-do-techup/README.md)
-  * [Learning Outcomes](about-techup/why-do-techup/learning-outcomes.md)
-  * [Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
-* [Deliverables](about-techup/deliverables.md)
-* [Meet the Team!](about-techup/meet-the-team.md)
-* [Legal Note](about-techup/legal-note.md)
+* [Page 2](week-1/page-2.md)
+
+## TECHUP
+
+* [Expected Deliverables](techup/expected-deliverables.md)
+* [✏️ About TechUp](techup/about-techup.md)
+* [✏️ Why do TechUp](techup/why-do-techup/README.md)
+  * [✏️ Rules of Engagement](techup/why-do-techup/rules-of-engagement.md)
+* [✏️ Learning Outcomes](techup/learning-outcomes.md)
+* [Meet the Team!](techup/meet-the-team.md)
 * [Get Inspiration: Past TechUp Web Apps built by participants](https://techup.live)
+
+***
+
+* [Page 1](page-1.md)
+* [Page](page.md)
+* [🚶 Self-Directed Learning Roadmap](self-directed-learning-roadmap.md)
 
 ## ADMIN INSTRUCTIONS
 
@@ -30,7 +42,6 @@
 
 ## Programme Essentials
 
-* [Detailed Programme Schedule](programme-essentials/detailed-programme-schedule.md)
 * [Programme Materials](programme-essentials/programme-materials.md)
 * [Mandatory Reading on How the Internet Works](programme-essentials/mandatory-reading-on-how-the-internet-works.md)
 * [Sample Web App](programme-essentials/sample-web-app.md)
@@ -65,8 +76,14 @@
 
 ## Policies
 
-* [Page 1](policies/page-1.md)
+* [✏️ Legal Note](policies/legal-note.md)
+* [✏️ Attendance Policy](policies/attendance-policy.md)
+* [✏️ Transport Policy](policies/transport-policy.md)
 
 ***
 
 * [✏️ About the Organisers](about-the-organisers.md)
+
+## ✏️ Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
+
+* [Untitled](pre-work/untitled.md)

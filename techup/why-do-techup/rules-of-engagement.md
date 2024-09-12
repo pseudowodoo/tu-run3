@@ -1,4 +1,4 @@
-# Rules of Engagement
+# ✏️ Rules of Engagement
 
 ### Our Values <a href="#our-values" id="our-values"></a>
 

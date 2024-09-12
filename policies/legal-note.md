@@ -1,4 +1,4 @@
-# Legal Note
+# ✏️ Legal Note
 
 Please take note of the following for your web apps, as they will be published live on the Internet:
 
