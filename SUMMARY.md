@@ -62,3 +62,11 @@
 * [Programme](demo-day/programme.md)
 * [Admin Instructions](demo-day/admin-instructions.md)
 * [Booths Layout](demo-day/booths-layout.md)
+
+## Policies
+
+* [Page 1](policies/page-1.md)
+
+***
+
+* [✏️ About the Organisers](about-the-organisers.md)
