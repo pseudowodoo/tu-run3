@@ -8,7 +8,7 @@
 {% tab title="Mon 28 Oct" %}
 ### Opening day & problem statement/design workshops <a href="#opening-day-and-problem-statement-design-workshops" id="opening-day-and-problem-statement-design-workshops"></a>
 
-Venue: Mapletree Business Centre (MBC) Block 30 Level 11 Jupiter Rooms 1 and 2 (see [Venues](../admin-instructions/venues.md) for access instructions)
+Venue: Mapletree Business Centre (MBC) Block 30 Level 11 Jupiter Rooms 1 and 2 (see [Venues](../readme/venues.md) for access instructions)
 
 <table data-header-hidden><thead><tr><th width="216">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9.30am - 10.00am</td><td>Introduction to TechUp 🗣️</td></tr><tr><td>10.00am - 11.00am</td><td>How the Internet Works 🗣️</td></tr><tr><td>11.00am - 11.30am</td><td>Tech in the Government - Q&#x26;A by Ruimin 🗣️</td></tr><tr><td>11.30am - 12.30pm</td><td>Lunch 🍔</td></tr><tr><td>12.30pm - 2.30pm</td><td>Workshop: Writing problem statements 📝</td></tr><tr><td>2.30pm - 3.00pm</td><td>Break</td></tr><tr><td>3.00pm - 4.00pm</td><td>Workshop: What is Good Design? 📝</td></tr></tbody></table>
 {% endtab %}
@@ -16,7 +16,7 @@ Venue: Mapletree Business Centre (MBC) Block 30 Level 11 Jupiter Rooms 1 and 2 (
 {% tab title="Tue 29 Oct" %}
 ### How to design your prototype and conduct user interviews & web dev bootcamp <a href="#how-to-design-your-prototype-and-conduct-user-interviews-and-web-dev-bootcamp" id="how-to-design-your-prototype-and-conduct-user-interviews-and-web-dev-bootcamp"></a>
 
-Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2 (see [Venues ](../admin-instructions/venues.md)for access instructions)
+Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2 (see [Venues ](../readme/venues.md)for access instructions)
 
 | Time              | Programme                                                                                                  |
 | ----------------- | ---------------------------------------------------------------------------------------------------------- |

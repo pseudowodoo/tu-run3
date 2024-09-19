@@ -30,12 +30,12 @@ You will need to be signed in to GitHub and Render.com before you setup the Samp
 **Note:** You will need to create a GitHub account first before creating a Render account. You will be using the "Sign up with GitHub" option when creating an account on Render.
 {% endhint %}
 
-{% content-ref url="../admin-instructions/tooling-and-software/github.md" %}
-[github.md](../admin-instructions/tooling-and-software/github.md)
+{% content-ref url="../readme/tooling-and-software/github.md" %}
+[github.md](../readme/tooling-and-software/github.md)
 {% endcontent-ref %}
 
-{% content-ref url="../admin-instructions/tooling-and-software/render.md" %}
-[render.md](../admin-instructions/tooling-and-software/render.md)
+{% content-ref url="../readme/tooling-and-software/render.md" %}
+[render.md](../readme/tooling-and-software/render.md)
 {% endcontent-ref %}
 
 ### Instructions on setting up your sample web app

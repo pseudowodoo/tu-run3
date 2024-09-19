@@ -3,6 +3,16 @@
 * [👋 Welcome!](README.md)
   * [✏️ Announcements](welcome/announcements.md)
   * [✏️ Tech Up Calendar](welcome/tech-up-calendar.md)
+  * [❓ Venues](readme/venues.md)
+  * [❓ Tooling and Software](readme/tooling-and-software/README.md)
+    * [Slack](readme/tooling-and-software/slack/README.md)
+      * [How to set up Slack](https://opengov.notion.site/Instructions-to-Set-Up-Slack-Account-5cb4c896b6264bf497f1ffdb038caea7)
+      * [Slack Checklist](readme/tooling-and-software/slack/slack-checklist.md)
+    * [Tooling Claims Instructions](readme/tooling-and-software/tooling-claims-instructions.md)
+    * [Cloudflare](readme/tooling-and-software/cloudflare.md)
+    * [Render](readme/tooling-and-software/render.md)
+    * [Google Analytics](readme/tooling-and-software/google-analytics.md)
+    * [GitHub](readme/tooling-and-software/github.md)
   * [✏️ Frequently Asked Questions](readme/frequently-asked-questions.md)
   * [✏️ Contact Persons](welcome/contact-persons.md)
 
@@ -39,16 +49,6 @@
 ## ADMIN INSTRUCTIONS
 
 * [Important Notices](admin-instructions/important-notices.md)
-* [❓ Venues](admin-instructions/venues.md)
-* [❓ Tooling and Software](admin-instructions/tooling-and-software/README.md)
-  * [Slack](admin-instructions/tooling-and-software/slack/README.md)
-    * [How to set up Slack](https://opengov.notion.site/Instructions-to-Set-Up-Slack-Account-5cb4c896b6264bf497f1ffdb038caea7)
-    * [Slack Checklist](admin-instructions/tooling-and-software/slack/slack-checklist.md)
-  * [Tooling Claims Instructions](admin-instructions/tooling-and-software/tooling-claims-instructions.md)
-  * [Cloudflare](admin-instructions/tooling-and-software/cloudflare.md)
-  * [Render](admin-instructions/tooling-and-software/render.md)
-  * [Google Analytics](admin-instructions/tooling-and-software/google-analytics.md)
-  * [GitHub](admin-instructions/tooling-and-software/github.md)
 * [Mandatory Surveys](admin-instructions/mandatory-surveys.md)
 * [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
 
