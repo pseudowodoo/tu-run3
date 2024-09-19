@@ -13,6 +13,7 @@
     * [Render](readme/tooling-and-software/render.md)
     * [Google Analytics](readme/tooling-and-software/google-analytics.md)
     * [GitHub](readme/tooling-and-software/github.md)
+    * [AOR](readme/tooling-and-software/aor.md)
   * [✏️ Frequently Asked Questions](readme/frequently-asked-questions.md)
   * [✏️ Contact Persons](welcome/contact-persons.md)
 
@@ -42,13 +43,9 @@
 * [✏️ Meet your participants](about-techup/meet-your-participants.md)
 * [Get Inspiration: Past TechUp Web Apps built by participants](https://run2.techup.today)
 
-***
-
-* [Page](page.md)
-
 ## ADMIN INSTRUCTIONS
 
-* [Important Notices](admin-instructions/important-notices.md)
+* [❗ What You Need to Know](admin-instructions/what-you-need-to-know.md)
 * [Mandatory Surveys](admin-instructions/mandatory-surveys.md)
 * [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
 

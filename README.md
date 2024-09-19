@@ -22,7 +22,13 @@ TechUp is held from 28 October 2024 - 22 November 2024
 
 ### Venues
 
-Table for
+Table for Days and where
+
+### Communication Channels
+
+Slack.
+
+Setup Guide here --> link
 
 ### Announcements Board <a href="#announcements-board" id="announcements-board"></a>
 
