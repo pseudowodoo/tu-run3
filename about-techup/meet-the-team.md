@@ -4,6 +4,8 @@ description: 'Note: image / profile / email ? for facilitators <Yanting + Michel
 
 # ✏️ Meet the Team!
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Mr So and So  </td><td></td><td></td><td><a href="../.gitbook/assets/sample-profile.png">sample-profile.png</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
 <details>
 
 <summary>Organising Team</summary>
